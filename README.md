@@ -22,10 +22,21 @@ Download full business case:
 
 This project builds an AI-driven system to analyze vehicle telemetry data and generate actionable insights for fleet optimization.
 
+## Project Structure
+
+AI-Fleet-Intelligence-System/
+│
+├── data/              # Raw telemetry dataset
+├── notebooks/         # Jupyter notebooks for analysis
+├── src/               # Python scripts (models & logic)
+├── output/            # Processed output data
+├── dashboard/         # Power BI dashboard & visuals
+├── docs/              # Case study PDF
+└── README.md
+
 # Problem
 
 Fleet operators struggle with:
-
 Unexpected breakdowns
 Fuel inefficiency
 Lack of driver performance visibility
