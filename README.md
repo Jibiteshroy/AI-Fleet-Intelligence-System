@@ -10,7 +10,7 @@ An AI-driven system using Python + Power BI to transform fleet operations from r
 <img width="1912" height="1135" alt="AI_Fleet_Intelligence_System_Visualization" src="https://github.com/user-attachments/assets/ef959733-8c8f-4f4f-9497-2bb70cab9a2c" />
 
 ## Demo Video
-https://github.com/user-attachments/assets/a9b58b72-fd00-4dc6-8e01-cc6a586d6aee
+[Watch demo](https://github.com/user-attachments/assets/a9b58b72-fd00-4dc6-8e01-cc6a586d6aee)
 
 ## Case Study
 
@@ -26,12 +26,12 @@ This project builds an AI-driven system to analyze vehicle telemetry data and ge
 
 AI-Fleet-Intelligence-System/
 │
-├── data/              # Raw telemetry dataset
-├── notebooks/         # Jupyter notebooks for analysis
-├── src/               # Python scripts (models & logic)
-├── output/            # Processed output data
-├── dashboard/         # Power BI dashboard & visuals
-├── docs/              # Case study PDF
+├── data/
+├── notebooks/
+├── src/
+├── output/
+├── dashboard/
+├── docs/
 └── README.md
 
 ## Problem
