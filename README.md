@@ -6,13 +6,13 @@ Optimal fuel efficiency at 54.7 km/h
 
 An AI-driven system using Python + Power BI to transform fleet operations from reactive maintenance to predictive intelligence.
 
-# Dashboard Preview
+## Dashboard Preview
 <img width="1912" height="1135" alt="AI_Fleet_Intelligence_System_Visualization" src="https://github.com/user-attachments/assets/ef959733-8c8f-4f4f-9497-2bb70cab9a2c" />
 
-# Demo Video
+## Demo Video
 [Watch demo](https://github.com/user-attachments/assets/a9b58b72-fd00-4dc6-8e01-cc6a586d6aee)
 
-# Case Study
+## Case Study
 
 Download full business case:
 [AI Powered_Fleet_Case_Study_Jibitesh_Kumar.pdf](https://github.com/user-attachments/files/27378549/AI.Powered_Fleet_Case_Study_Jibitesh_Kumar.pdf)
@@ -34,27 +34,27 @@ AI-Fleet-Intelligence-System/
 ├── docs/
 └── README.md
 
-# Problem
+## Problem
 
 Fleet operators struggle with:
 - Unexpected breakdowns  
 - Fuel inefficiency  
 - Lack of driver performance visibility  
 
-# Solution
+## Solution
 
 A 3-layer analytics system:
 - Predictive Maintenance (Random Forest)  
 - Fuel Optimization (Regression)  
 - Driver Behavior Scoring  
 
-# Results
+## Results
 68 high-risk vehicles identified
 Optimal efficiency at 54.7 km/h
 Driver score avg: 78.5/100
 $390K–$515K annual impact
 
-# Key Insights
+## Key Insights
 
 - Failures are concentrated in high-risk zones (>0.9 probability)  
 - Idle time is the biggest contributor to fuel inefficiency  
@@ -62,7 +62,7 @@ $390K–$515K annual impact
 
 Operational inefficiencies are predictable and preventable.
 
-# Tech Stack
+## Tech Stack
 
 - Python (Pandas, NumPy, Scikit-learn)  
 - Machine Learning Models  
@@ -93,3 +93,9 @@ Turning raw telemetry data into actionable business decisions.
 - Power BI Desktop
 Power BI
 Machine Learning
+
+---
+
+## 🚀 Final Note
+
+This project demonstrates how predictive analytics and business intelligence can transform fleet operations from reactive processes into proactive, cost-optimized systems.
