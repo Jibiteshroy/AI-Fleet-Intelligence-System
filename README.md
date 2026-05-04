@@ -23,6 +23,7 @@ An AI-driven system using Python + Power BI to transform fleet operations from r
 ## 📌 Overview
 
 This project builds an AI-driven system to analyze vehicle telemetry data and generate actionable insights for fleet optimization.
+🚀 Built as an end-to-end analytics solution integrating machine learning, data engineering, and business intelligence.
 
 ---
 
