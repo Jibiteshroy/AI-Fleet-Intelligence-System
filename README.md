@@ -47,10 +47,13 @@ This system enables:
 
 Turning raw data into business decisions.
 
-# Key Insights
-Failures are predictable using engine stress patterns
-Idle time significantly impacts fuel consumption
-Driver behavior directly affects cost and safety
+## Key Insights
+
+- Failures are concentrated in high-risk zones (>0.9 probability)  
+- Idle time is the biggest contributor to fuel inefficiency  
+- Driver behavior shows a 40-point performance gap  
+
+Operational inefficiencies are predictable and preventable.
 
 # Tech Stack
 Python (Pandas, Scikit-learn)
