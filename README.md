@@ -2,15 +2,21 @@
 
 $390K–$515K cost savings potential  
 68 high-risk vehicles identified before failure  
-Fuel efficiency optimized at 54.7 km/h  
+Optimal fuel efficiency at 54.7 km/h  
 
-An AI-driven system using Python + Power BI to transform fleet operations from reactive to predictive.
+An AI-driven system using Python + Power BI to transform fleet operations from reactive maintenance to predictive intelligence.
 
-# Dashboard Image
+# Dashboard Preview
 <img width="1912" height="1135" alt="AI_Fleet_Intelligence_System_Visualization" src="https://github.com/user-attachments/assets/ef959733-8c8f-4f4f-9497-2bb70cab9a2c" />
 
 # Demo Video
 https://github.com/user-attachments/assets/a9b58b72-fd00-4dc6-8e01-cc6a586d6aee
+
+## Case Study
+
+Download full business case:
+[AI Powered_Fleet_Case_Study_Jibitesh_Kumar.pdf](https://github.com/user-attachments/files/27378549/AI.Powered_Fleet_Case_Study_Jibitesh_Kumar.pdf)
+
 
 # Overview
 
@@ -36,17 +42,6 @@ Optimal efficiency at 54.7 km/h
 Driver score avg: 78.5/100
 $390K–$515K annual impact
 
-## Why This Matters
-
-Fleet operations lose millions due to reactive maintenance and fuel inefficiencies.
-
-This system enables:
-- Predictive maintenance → reduced downtime  
-- Fuel optimization → lower operational cost  
-- Driver analytics → improved safety  
-
-Turning raw data into business decisions.
-
 ## Key Insights
 
 - Failures are concentrated in high-risk zones (>0.9 probability)  
@@ -57,6 +52,17 @@ Operational inefficiencies are predictable and preventable.
 
 # Tech Stack
 Python (Pandas, Scikit-learn)
+
+## Why This Matters
+
+Fleet operations lose significant revenue due to reactive maintenance and inefficient driving.
+
+This system enables:
+- Predictive maintenance → reduced downtime  
+- Fuel optimization → cost savings  
+- Driver analytics → improved safety  
+
+Turning raw telemetry data into actionable business decisions.
 
 ## How to Run
 
