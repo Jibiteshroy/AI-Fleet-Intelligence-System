@@ -34,18 +34,19 @@ AI-Fleet-Intelligence-System/
 ├── docs/              # Case study PDF
 └── README.md
 
-# Problem
+## Problem
 
 Fleet operators struggle with:
-Unexpected breakdowns
-Fuel inefficiency
-Lack of driver performance visibility
+- Unexpected breakdowns  
+- Fuel inefficiency  
+- Lack of driver performance visibility  
 
-# Solution
+## Solution
+
 A 3-layer analytics system:
-Predictive Maintenance (Random Forest)
-Fuel Optimization (Regression)
-Driver Behavior Scoring
+- Predictive Maintenance (Random Forest)  
+- Fuel Optimization (Regression)  
+- Driver Behavior Scoring  
 
 # Results
 68 high-risk vehicles identified
@@ -61,9 +62,13 @@ $390K–$515K annual impact
 
 Operational inefficiencies are predictable and preventable.
 
-# Tech Stack
-Python (Pandas, Scikit-learn)
+## Tech Stack
 
+- Python (Pandas, NumPy, Scikit-learn)  
+- Machine Learning Models  
+- Power BI Desktop (Visualization & Reporting) 
+- Data Analytics & Feature Engineering
+  
 ## Why This Matters
 
 Fleet operations lose significant revenue due to reactive maintenance and inefficient driving.
